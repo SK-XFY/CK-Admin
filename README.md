@@ -3,8 +3,8 @@
 [![CK](https://img.shields.io/badge/C-K-green "CK")](http://admin.chenfangyi.cn)
 [![小楼一夜听春雨](https://img.shields.io/badge/小楼一夜听春雨-blue "小楼一夜听春雨")](http://admin.chenfangyi.cn)
 #### 介绍
-基于Vuetify  的VUE后台管理系统
-演示地址 <br>
+基于Vuetify  的VUE后台管理系统<br>
+演示地址 
 http://admin.chenfangyi.cn/login
 #### 软件架构
 1.  **vuetifyjs** https://vuetifyjs.com
