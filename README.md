@@ -5,9 +5,10 @@
 #### 介绍
 基于Vuetify  的VUE后台管理系统
 演示地址 <br>
-http://admin.chenfangyi.cn
+http://admin.chenfangyi.cn/login
 #### 软件架构
-软件架构说明
+1.  **vuetifyjs** https://vuetifyjs.com
+2.  **nuxtjs** https://nuxtjs.org/
 
 #### 下版本更新功能模块
 1.多语言切换<br>
