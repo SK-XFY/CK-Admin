@@ -1,5 +1,6 @@
 # CK-Admin
 
+![输入图片说明](https://img.shields.io/badge/C-K-green "CK")
 #### 介绍
 基于Vuetify  的VUE后台管理系统
 
