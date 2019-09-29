@@ -1,0 +1,228 @@
+// Import Vuetify styling
+*, :after, :before {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-overflow-scrolling: touch;
+  word-break: break-all;
+}
+
+a {
+  text-decoration: none;
+  display: inline;
+  //color: #333 !important;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+ul, ol, li {
+  list-style-type: none;
+}
+img {
+  vertical-align: middle;
+}
+::-webkit-scrollbar {
+  width: 1px;
+  height: 3px;
+  /*display: none*/
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #9E9E9E;
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #FFFFFF;
+  border-radius: 6px;
+}
+
+//body {
+//  max-width 768px;
+//  margin 0 auto;
+//  width 100%
+//}
+.layout-enter-active, .layout-leave-active,
+.page-enter-active, .page-leave-active {
+  transition: all .35s;
+}
+
+.layout-enter, .layout-leave-active,
+.page-enter, .page-leave-active {
+  opacity: 0
+}
+
+.pc-default-max-width {
+  max-width: 1200px !important;
+  padding: 0 15px;
+  margin: 0 auto !important;
+  width: 100% !important;
+  position: relative;
+}
+
+.max-width {
+  width: 100% !important;
+}
+
+.max-height {
+  height: 100% !important;
+}
+
+[class*=fixed-], .fixed {
+  position: fixed !important;
+  z-index: 99;
+}
+
+[class*=sticky-], .sticky {
+  position: sticky !important;
+  z-index: 99;
+}
+
+.fixed-top,
+.sticky-top {
+  top: 0;
+  left: 0;
+}
+
+.fixed-bottom,
+.sticky-bottom {
+  bottom: 0;
+  left: 0;
+}
+
+.img-background {
+  background-position: center center;
+  background-size: cover;
+}
+
+/*flex*/
+.flex-center {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.flex-x-center {
+  display: flex !important;
+  justify-content: center !important;
+}
+
+.flex-y-center {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.flex-justify-between {
+  display: flex !important;
+  justify-content: space-between !important;
+}
+
+.flex-justify-around {
+  display: flex !important;
+  justify-content: space-around !important;
+}
+
+.flex-column {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.flex-justify-end {
+  display: flex !important;
+  justify-content: flex-end !important;
+}
+
+.flex-align-end {
+  display: flex !important;
+  align-items: flex-end !important;
+}
+
+.flex-justify-start {
+  display: flex !important;
+  justify-content: flex-start !important;
+}
+
+.flex-align-start {
+  display: flex !important;
+  align-items: flex-start !important;
+}
+
+.flex-row {
+  display: flex !important;
+  flex-wrap: wrap !important;
+}
+
+.flex-0 {
+  flex: 0 1 auto !important
+}
+
+.flex-1 {
+  flex: 1 !important;
+}
+
+.flex-grow-1 {
+  flex-grow: 1 !important;
+}
+
+.flex-shrink-0 {
+  flex-shrink: 0 !important;
+}
+
+/*flex end*/
+/* radius */
+[class*=radius-] {
+  overflow: hidden;
+}
+
+.radius-0 {
+  border-radius: 0 !important;
+}
+
+.radius-1 {
+  border-radius: 2px !important;
+}
+
+.radius-2 {
+  border-radius: 4px !important;
+}
+
+.radius-3 {
+  border-radius: 8px !important;
+}
+
+.radius-4 {
+  border-radius: 12px !important;
+}
+
+.radius-5 {
+  border-radius: 24px !important;
+}
+
+.radius-circular {
+  border-radius: 50% !important;
+}
+
+/* radius end */
+
+/* font start*/
+.font-spacing-1 {
+  letter-spacing: 1px !important;
+}
+
+.font-spacing-2 {
+  letter-spacing: 2px !important;
+}
+
+.font-spacing-3 {
+  letter-spacing: 3px !important;
+}
+
+.font-spacing-4 {
+  letter-spacing: 4px !important;
+}
+
+/* font end*/
