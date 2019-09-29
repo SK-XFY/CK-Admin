@@ -1,9 +1,10 @@
 # CK-Admin
 
-[![CK](https://img.shields.io/badge/C-K-green "CK")](http://admin.chenfangyi.cn)
+[![CK](https://img.shields.io/badge/C-K-green "CK")](http://admin.chenfangyi.cn) [![CK](https://img.shields.io/badge/C-K-green "CK")](http://admin.chenfangyi.cn)
 #### 介绍
 基于Vuetify  的VUE后台管理系统
-演示地址 http://admin.chenfangyi.cn
+演示地址 <br>
+http://admin.chenfangyi.cn
 #### 软件架构
 软件架构说明
 
