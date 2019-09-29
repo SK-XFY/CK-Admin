@@ -22,7 +22,7 @@ http://admin.chenfangyi.cn/login
 #### 安装教程
 
 1. git clone https://gitee.com/shi_kai/CK-Admin
-2. cd /CK—Admin
+2. cd /CK-Admin
 3. npm install
 4. npm run dev
 
