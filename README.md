@@ -21,7 +21,7 @@ http://admin.chenfangyi.cn/login
 
 1. git clone https://gitee.com/shi_kai/CK-Admin
 2. cd /CK—Admin
-3. npm intall
+3. npm install
 4. npm run dev
 
 #### 使用说明
